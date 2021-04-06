@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Letters</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-06T00:00:19-04:00</updated>
+  <updated>2021-04-06T14:49:54-04:00</updated>
   <author>
     <name>Null</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -17,6 +17,40 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Ownership and Identity in a Post-Truth Society</title>
+    <link href="http://0.0.0.0:4000/posts/ownership-and-identity-in-a-post-truth-society/" rel="alternate" type="text/html" title="Ownership and Identity in a Post-Truth Society" />
+    <published>2021-04-06T10:11:54-04:00</published>
+  
+    <updated>2021-04-06T10:11:54-04:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/ownership-and-identity-in-a-post-truth-society/</id>
+    <content src="http://0.0.0.0:4000/posts/ownership-and-identity-in-a-post-truth-society/" />
+    <author>
+      <name>Null</name>
+    </author>
+
+  
+    
+    <category term="privacy" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      How many hours have you spent on hold with your bank or credit card company? Navigating through phone menus, listening to robotic monologues telling you how much they care about you while they waste your time. We have to put up with this in part as a security procedure. When you finially get another human on the line, they’ll likely ask for your SSN, security questions, birthday, etc. All this ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
