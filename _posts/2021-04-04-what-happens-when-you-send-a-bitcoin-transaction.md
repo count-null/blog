@@ -1,8 +1,9 @@
 ---
-title: How Mining fees Work in Bitcoin: What Happens When a Transaction is Created?
-date: 2021-04-04 07:23:12
-categories: [bitcoin, fees]
-tags: [bitcoin, mining, fees, transaction, mempool, broadcast]
+title: How Mining fees Work in Bitcoin
+date: 2021-04-04 07:23:12 +/-TTTT
+pin: true
+categories: [bitcoin]
+tags: [bitcoin, mining, fees, transaction, network]
 ---
 
 Here's an overview of what happens when you make a transaction:
