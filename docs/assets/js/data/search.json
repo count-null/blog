@@ -1,0 +1,34 @@
+[
+  
+  {
+    "title": "Your Decentralized App Dosen&#39;t Need a Blockchain",
+    "url": "/posts/your-decentralized-app-dosen't-need-a-blockchain/",
+    "categories": "bitcoin",
+    "tags": "bitcoin, decentralization, apps, lightning, federations, blockchain, prediction",
+    "date": "2021-04-05 17:41:58 -0400",
+    
+
+
+
+
+
+    "snippet": "The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps.Most of these app are on central servers. They use LN for it’s payments ability, not to make a distributed application.There are some apps that are hosted on lightning nodes. These include BTCPayServer an..."
+  },
+  
+  {
+    "title": "How Mining fees Work in Bitcoin",
+    "url": "/posts/what-happens-when-you-send-a-bitcoin-transaction/",
+    "categories": "bitcoin",
+    "tags": "bitcoin, mining, fees, transaction, network",
+    "date": "2021-04-04 07:23:12 -0400",
+    
+
+
+
+
+
+    "snippet": "Here’s an overview of what happens when you make a transaction:When you broadcast a transaction, it must be sent from a node to all its peers. Each transaction has a fee rate measured in sats per byte. Bitcoin allows you to choose whatever fee you want! However, some wallets do not let you choose..."
+  }
+  
+]
+

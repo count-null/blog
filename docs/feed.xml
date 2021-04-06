@@ -1,0 +1,99 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://0.0.0.0:4000/</id>
+  <title>Letters</title>
+  <subtitle>A blog about decentralization and cyberstates.</subtitle>
+  <updated>2021-04-06T00:00:19-04:00</updated>
+  <author>
+    <name>Null</name>
+    <uri>http://0.0.0.0:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en-US"
+    href="http://0.0.0.0:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <rights> © 2021 Null </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Your Decentralized App Dosen't Need a Blockchain</title>
+    <link href="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" rel="alternate" type="text/html" title="Your Decentralized App Dosen't Need a Blockchain" />
+    <published>2021-04-05T17:41:58-04:00</published>
+  
+    <updated>2021-04-05T17:41:58-04:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/</id>
+    <content src="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" />
+    <author>
+      <name>Null</name>
+    </author>
+
+  
+    
+    <category term="bitcoin" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps.
+
+Most of these app are on central servers. They use LN for it’s payments ability, not to make a distributed application.
+
+There are some apps that are hosted on lightning nodes. These include BTCPayServer and Sphinx Chat. Sphinx enables encrypted communication over LN protocol. You can attach a payment...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>How Mining fees Work in Bitcoin</title>
+    <link href="http://0.0.0.0:4000/posts/what-happens-when-you-send-a-bitcoin-transaction/" rel="alternate" type="text/html" title="How Mining fees Work in Bitcoin" />
+    <published>2021-04-04T07:23:12-04:00</published>
+  
+    <updated>2021-04-05T20:01:14-04:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/what-happens-when-you-send-a-bitcoin-transaction/</id>
+    <content src="http://0.0.0.0:4000/posts/what-happens-when-you-send-a-bitcoin-transaction/" />
+    <author>
+      <name>Null</name>
+    </author>
+
+  
+    
+    <category term="bitcoin" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Here’s an overview of what happens when you make a transaction:
+
+When you broadcast a transaction, it must be sent from a node to all its peers. Each transaction has a fee rate measured in sats per byte. Bitcoin allows you to choose whatever fee you want! However, some wallets do not let you choose a fee.
+
+For example, if your transaction takes up 269 bytes of space on the block chain, and you ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
