@@ -15,31 +15,34 @@ timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: "Letters"                          # the main title
+title: "Lyberry Blog"                          # the main title
 
-tagline: 'from a Nym Named Null'    # it will display as the sub-title
+tagline: 'Letters from cyberspace'    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog about decentralization and cyberstates.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.lyberry.com'
 
-github:
-  username: 'count-null'             # change to your github username
+#github:
+#  username: 'count-null'             # change to your github username
 
-twitter:
-  username: count_null            # change to your twitter username
+#twitter:
+#  username: count_null            # change to your twitter username
+
+#reddit:
+#  username: 'null-count'
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 'Null'
+  name: 'Lyberry'
   email: 'null@lyberry.com'             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - 'https://twitter.com/count_null'      # change to your twitter homepage
-    - 'https://github.com/count-null'    # change to your github homepage
+    # - 'https://twitter.com/count_null'      # change to your twitter homepage
+    # - 'https://github.com/count-null'    # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,8 +84,7 @@ theme_mode: dark   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.wired.com/photos/5b17381815b2c744cb650b5f/master/w_2560%2Cc_limit/GettyImages-134367495.jpg
-
+avatar: https://1ml.com/node/02a32ec469c2dce4937148ac1f6af67aa0054723b7c67a5f95a3c32f00a3caca2e/qrcode
 # boolean type, the global switch for ToC in posts.
 toc: true
 

@@ -2,18 +2,18 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://0.0.0.0:4000/</id>
-  <title>Letters</title>
+  <title>Lyberry Blog</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-07T14:35:06-04:00</updated>
+  <updated>2021-04-07T15:54:23-04:00</updated>
   <author>
-    <name>Null</name>
+    <name>Lyberry</name>
     <uri>http://0.0.0.0:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en-US"
     href="http://0.0.0.0:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-  <rights> © 2021 Null </rights>
+  <rights> © 2021 Lyberry </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -29,7 +29,7 @@
     <id>http://0.0.0.0:4000/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/</id>
     <content src="http://0.0.0.0:4000/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/" />
     <author>
-      <name>Null</name>
+      <name>Lyberry</name>
     </author>
 
   
@@ -70,7 +70,7 @@ Wouldn’t it be great if we could get the same...
     <id>http://0.0.0.0:4000/posts/ownership-and-identity-in-a-post-truth-society/</id>
     <content src="http://0.0.0.0:4000/posts/ownership-and-identity-in-a-post-truth-society/" />
     <author>
-      <name>Null</name>
+      <name>Lyberry</name>
     </author>
 
   
@@ -104,7 +104,7 @@ Wouldn’t it be great if we could get the same...
     <id>http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/</id>
     <content src="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" />
     <author>
-      <name>Null</name>
+      <name>Lyberry</name>
     </author>
 
   
@@ -142,7 +142,7 @@ There are some apps that are hosted on lightning nodes. These include BTCPayServ
     <id>http://0.0.0.0:4000/posts/what-happens-when-you-send-a-bitcoin-transaction/</id>
     <content src="http://0.0.0.0:4000/posts/what-happens-when-you-send-a-bitcoin-transaction/" />
     <author>
-      <name>Null</name>
+      <name>Lyberry</name>
     </author>
 
   

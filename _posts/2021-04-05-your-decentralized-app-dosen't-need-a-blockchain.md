@@ -3,6 +3,7 @@ title: Your Decentralized App Dosen't Need a Blockchain
 date: 2021-04-05 21:41:58
 categories: [bitcoin]
 tags: [bitcoin, decentralization, apps, lightning, federations, blockchain, prediction]
+pin: false
 ---
 
 The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps. 
