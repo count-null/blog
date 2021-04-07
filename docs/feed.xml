@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Letters</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-06T14:49:54-04:00</updated>
+  <updated>2021-04-07T14:35:06-04:00</updated>
   <author>
     <name>Null</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Batch Open Lightning Channels with Balance of Satoshis (BoS)</title>
+    <link href="http://0.0.0.0:4000/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/" rel="alternate" type="text/html" title="Batch Open Lightning Channels with Balance of Satoshis (BoS)" />
+    <published>2021-04-07T09:09:46-04:00</published>
+  
+    <updated>2021-04-07T09:09:46-04:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/</id>
+    <content src="http://0.0.0.0:4000/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/" />
+    <author>
+      <name>Null</name>
+    </author>
+
+  
+    
+    <category term="bitcoin" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      If you operate a Lightning Network node for profit, one of your biggest costs are on chain channel opening fees. Exchanges have been batching bitcoin transactions for years. Batching transactions is an obvious and easy way to save significantly on fees.
+
+
+
+Read David Harding’s post: Saving up to 80% on Bitcoin transaction fees by batching payments
+
+
+Wouldn’t it be great if we could get the same...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>

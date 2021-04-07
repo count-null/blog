@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Batch Open Lightning Channels with Balance of Satoshis (BoS)",
+    "url": "/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/",
+    "categories": "bitcoin",
+    "tags": "lightning, bitcoin, fees, node management, channels, optimization, batching",
+    "date": "2021-04-07 09:09:46 -0400",
+    
+
+
+
+
+
+    "snippet": "If you operate a Lightning Network node for profit, one of your biggest costs are on chain channel opening fees. Exchanges have been batching bitcoin transactions for years. Batching transactions is an obvious and easy way to save significantly on fees.Read David Harding’s post: Saving up to 80% ..."
+  },
+  
+  {
     "title": "Ownership and Identity in a Post-Truth Society",
     "url": "/posts/ownership-and-identity-in-a-post-truth-society/",
     "categories": "privacy",
