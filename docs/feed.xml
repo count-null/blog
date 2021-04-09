@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Lyberry Blog</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-07T15:54:23-04:00</updated>
+  <updated>2021-04-09T11:32:12-04:00</updated>
   <author>
     <name>Lyberry</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -99,7 +99,7 @@ Wouldn’t it be great if we could get the same...
     <link href="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" rel="alternate" type="text/html" title="Your Decentralized App Dosen't Need a Blockchain" />
     <published>2021-04-05T17:41:58-04:00</published>
   
-    <updated>2021-04-05T17:41:58-04:00</updated>
+    <updated>2021-04-07T15:55:04-04:00</updated>
   
     <id>http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/</id>
     <content src="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" />
