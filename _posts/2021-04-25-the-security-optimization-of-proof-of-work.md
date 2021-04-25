@@ -5,23 +5,23 @@ categories: [bitcoin]
 tags: [proof of work, bitcoin, energy, asics, security]
 ---
 
-Bitcoin will be sucessfully attacked because it's security is trending down despite rising hashrate. It must suffer an assult (perhaps multiple blows) in order to correctly price the minimum cost of security. Proof-of-Work systems with a decreasing issuance schedule are performing a security budget optimization in real-time.
+Bitcoin will be successfully attacked because it's security is trending down despite rising hashrate. It must suffer an assault (perhaps multiple blows) in order to correctly price the minimum cost of security. Proof-of-work systems with a decreasing issuance schedule are performing a security budget optimization in real-time.
 
 Let me explain...
 
 ## Proof-of-Work Incentive Structure
 
-Proof-of-work blockchains are secured by a global network of computers which perform energy intense calculations. These miners are rewarded proportional to the amount of work (hashes) they produce to secure the asset they are mining. 
+Proof-of-work blockchains are secured by a global network of computers that perform energy-intense calculations. These miners are rewarded proportional to the amount of work (hashes) they produce to secure the asset they are mining. 
 
-Bitcoin miners revieve payment from two sources. 
+Bitcoin miners recieve payment from two sources. 
 
-1. The block reward - represents newly created bitcoin rewarded to miners as part of bitcoin's predictable supply schedule. 
+1. **The block reward** - represents newly created bitcoin rewarded to miners as part of bitcoin's predictable supply schedule. 
 
-2. Transaction fees - the fees collected from all transactions that the miner includes in a block
+2. **Transaction fees** - the fees collected from all transactions that the miner includes in a block
 
 An attacker with **substantial hashrate** could choose to hijack the network. They could delay payments by mining empty blocks (choosing not to collect transaction fees) or they could double-spend transactions made during their attack. 
 
-The attack would need to be sustained to be effective, however it's important to note that the advasary would not be able to alter old transactions or create new coins. 
+The attack would need to be sustained to be effective, however, it's important to note that the adversary would not be able to alter old transactions or create new coins. 
 
 Proof-of-work is designed to make attacks costly, and cooperation rewarding.
 
@@ -33,9 +33,9 @@ Independent analyst, energy FUDster, and shitcoiner [Morgan Bennett](https://twi
 
 Chart source: [Tweet from Bennett](https://twitter.com/MorganTBennett/status/1386023538625236997)
 
-Perhaps this chart was intended to spread FUD about proof-of-work chains by intentally framing them as doomed to fail. However, I think this data reveals something interesting about Bitcoin's design that could become relevenat once it faces a worth advasary in the political area. 
+At first glance, this chart seems counterintuitive to anyone who follows bitcoin network statistics. It clearly shows a downward trend in security for all proof-of-work chains even though hashrate (for most networks) has been on the rise.
 
-At first glance, this chart seems counterintuitive to anyone who follows bitcoin network statistics. It clearly shows a downward trend in security for all proof-of-work chains despite the fact that hashrate (for most networks) has been on the rise.
+Perhaps this chart was intended to spread FUD about proof-of-work chains by intentionally framing them as doomed to fail. However, I think this data reveals something interesting about Bitcoin's design that could become relevant once it faces a worthy adversary.
 
 ## Hashrate Alone is not Security
 
@@ -45,11 +45,13 @@ Here's a chart showing the clear and steady increase in Bitcoin's hashrate, for 
 
 Chart source: [CoinWars](https://coinwars.com/mining/bitcoin/hashrate-chart)
 
-If an attacker needs "substantial hashrate", dosen't an increase in hashrate make the network is more secure?
+If an attacker needs "substantial hashrate", doesn't an increase in hashrate make the network more secure?
 
-Not necessarily. If all miners controling hashrate are assumed to always act in good faith, then an attacker would need to bring on additional hashrate to outcompete the good faith miners.
+Not necessarily. 
 
-However, this assumption is unrealistic. It is more likely that an attacker would bring hash online and cooperatively mine until the oppertunity to attack becomes feasible.
+If all miners controlling hashrate are assumed to always act in good faith, then an attacker would need to bring on additional hashrate to outcompete the good faith miners.
+
+However, this assumption is unrealistic. It is more likely that an attacker would bring hash online and cooperatively mine until the opportunity to attack becomes feasible.
 
 This is why Bennett defines network security as the security budget divided by the network's market cap. 
 
@@ -59,17 +61,17 @@ Let's break down what that means and why it's a better measure for security than
 
 The security budget is what is paid to miners who act in good faith. Namely, the block reward plus transaction fees. 
 
-In theory, it is more appealing to attack coins with a higher market caps per unit of cost that an attacker might spend. By dividing the reward paid to good faith miners by the market cap, we capture this relationship and arrive at a figure which represents the ongoing cost to attack the network.
+In theory, it is more appealing to attack coins with higher market caps per unit of cost that an attacker might spend. By dividing the reward paid to good faith miners by the market cap, we capture this relationship and arrive at a figure which represents the ongoing cost to attack the network.
 
 This security calculation could explain why shitcoins don't get 51% attacked very often despite their meager hashrates.
 
-It also introduces another sly roundabout way that bitcoin protects itself from exestantial threats. Bitcoin's valuation serves as a deterrant to attack, only increasing to levels it can sustain with the current levels of security.
+It also introduces another sly roundabout way that bitcoin protects itself from existential threats. Bitcoin's valuation serves as a deterrent to attack, only increasing to levels it can sustain with the current levels of security.
 
 This cost trends down for two reasons. 
 
-1. Market Cap Rises - due to number go up technology
+1. **Market cap rises** - due to number go up technology
 
-2. The block reward decreases predictablly with the halvings baked in to Bitcoin's supply schedule. 
+2. **The block reward decreases** - predictably with the halvings baked in to Bitcoin's supply schedule. 
 
 ![Bitcoin's Predictable Supply Schedule](/assets/img/bitcoin-inflation-chart.png)
 
@@ -85,11 +87,11 @@ The chain must be reserved for high-value settlement if fees are to rise. Additi
 
 ## The Cost to Secure the Price
 
-However, security doesn't necessarilly need to rise indefinately. It only needs to stay above the minimum level required to prevent sucessful attacks. If th network were over secured, this would correspond to an undervaluation of the asset (low prices) or unessesaryly high fees. 
+However, security doesn't necessarily need to rise indefinitely. It only needs to stay above the minimum level required to prevent successful attacks. If the network were over secured, this would correspond to an undervaluation of the asset (low prices) or unnecessarily high fees. 
 
-If we view Bitcoin as an efficient system built on true price discovery of free markets, then this theorhetical level of minimum security is unknowable until Bitcoin is sucessfully attacked.
+If we view Bitcoin as an efficient system built on true price discovery of free markets, then this theoretical level of minimum security is unknowable until Bitcoin is successfully attacked.
 
-Therefore the downward trend in proof-of-work network security is not a path to utter devestation, but rather an optimization of resources seeking to naturally discover the true cost to sufficiently secure the network. 
+Therefore the downward trend in proof-of-work network security is not a path to utter devastation, but rather an optimization of resources seeking to naturally discover the true cost to sufficiently secure the network. 
 
-A sucessfull attack will likely crash the price, causing the security to rise dramatically, preventing the attacker from sustaining the assult. After which point, any increase in price must coorespond to an increase in fees to maintain a minimum security level. 
+A successfull attack will likely crash the price, causing the security to rise dramatically, preventing the attacker from sustaining the assault. After which point, any price increase must correspond to an increase in fees to maintain a minimum security level. 
 
