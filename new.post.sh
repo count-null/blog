@@ -20,3 +20,5 @@ tags: []
 
 END
 vim $POST
+
+gramma check $POST
