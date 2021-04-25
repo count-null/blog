@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "The Security Optimization of Proof of Work",
+    "url": "/posts/the-security-optimization-of-proof-of-work/",
+    "categories": "bitcoin",
+    "tags": "proof of work, bitcoin, energy, asics, security",
+    "date": "2021-04-25 07:33:27 -0400",
+    
+
+
+
+
+
+    "snippet": "Bitcoin will be sucessfully attacked because it’s security is trending down despite rising hashrate. It must suffer an assult (perhaps multiple blows) in order to correctly price the minimum cost of security. Proof-of-Work systems with a decreasing issuance schedule are performing a security budg..."
+  },
+  
+  {
     "title": "Batch Open Lightning Channels with Balance of Satoshis (BoS)",
     "url": "/posts/save-money-by-batch-opening-lightning-channels-with-balance-of-satoshis-(bos)/",
     "categories": "bitcoin",

@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Lyberry Blog</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-09T11:32:12-04:00</updated>
+  <updated>2021-04-25T14:44:31-04:00</updated>
   <author>
     <name>Lyberry</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>The Security Optimization of Proof of Work</title>
+    <link href="http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/" rel="alternate" type="text/html" title="The Security Optimization of Proof of Work" />
+    <published>2021-04-25T07:33:27-04:00</published>
+  
+    <updated>2021-04-25T07:33:27-04:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/</id>
+    <content src="http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/" />
+    <author>
+      <name>Lyberry</name>
+    </author>
+
+  
+    
+    <category term="bitcoin" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Bitcoin will be sucessfully attacked because it’s security is trending down despite rising hashrate. It must suffer an assult (perhaps multiple blows) in order to correctly price the minimum cost of security. Proof-of-Work systems with a decreasing issuance schedule are performing a security budget optimization in real-time.
+
+Let me explain…
+
+Proof-of-Work Incentive Structure
+
+Proof-of-work blo...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
