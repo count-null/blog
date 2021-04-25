@@ -433,7 +433,7 @@
 
 
 <!-- return element -->
-<span class="readtime" data-toggle="tooltip" data-placement="bottom" title="532 words">2 min</span>
+<span class="readtime" data-toggle="tooltip" data-placement="bottom" title="527 words">2 min</span>
 
 
           <!-- page views -->
@@ -468,7 +468,7 @@
 
 <h3 id="3-collect-a-list-of-node-public-keys">3. Collect a list of node public keys</h3>
 
-<p>These are the nodes you want to open channels to. Also make sure you have enough BTC in your onchain LND wallet to fund all these channels.</p>
+<p>These are the nodes you want to open channels to. Also, make sure you have enough BTC in your onchain LND wallet to fund all these channels.</p>
 
 <h3 id="4-run-the-bos-open-command">4. Run the <code class="language-plaintext highlighter-rouge">bos open</code> command</h3>
 
@@ -476,7 +476,7 @@
 
 <p><code class="language-plaintext highlighter-rouge">bos open &lt;pubkey&gt; --amount &lt;sats&gt; &lt;pubkey2&gt; --amount &lt;sats&gt; ...</code></p>
 
-<p><strong>WARNING</strong>: When you run this command finishes running, you have started a 10 minute timer for yourself. If you attempt to complete the remaining steps AFTER 10 MINUTES HAVE PASSED, YOU RISK LOSING FUNDS! You can safely cancel the operation by pressing <code class="language-plaintext highlighter-rouge">ENTER</code>.</p>
+<p><strong>WARNING</strong>: When you run this command finishes running, you have started a10-minutee timer for yourself. If you attempt to complete the remaining steps AFTER 10 MINUTES HAVE PASSED, YOU RISK LOSING FUNDS! You can safely cancel the operation by pressing <code class="language-plaintext highlighter-rouge">ENTER</code>.</p>
 
 <p>When you run this command, <code class="language-plaintext highlighter-rouge">bos</code> will attempt to connect to each node using the pubkey you provided. It will negotiate a channel open contract address for each node. When it’s complete, it will print some text like this:</p>
 
@@ -494,7 +494,7 @@ bc1qpyz6lausga2s7j2wld8a6m6z722zz4gwkk5cc2hhkq0wj49xfahsck9ajc, 0.01000000
 
 <p>This is an instruction for your batch transaction. The command will wait for you to paste the signed transaction hex that pays these addresses with the specified amount. Your 10 minute timer has begun! If you cannot paste the required hex within 10 mins, simply press <code class="language-plaintext highlighter-rouge">ENTER</code> without entering anything to cancel.</p>
 
-<p><strong>NOTE</strong>: All nodes you are trying to connect with need to be online and responsive. If you encounter errors, try removing one of the pubkeys until you identify wich node is causing the problem.</p>
+<p><strong>NOTE</strong>: All nodes you are trying to connect with need to be online and responsive. If you encounter errors, try removing one of the pubkeys until you identifywhichh node is causing the problem.</p>
 
 <h3 id="5-use-bos-fund-to-create-the-transaction">5. Use <code class="language-plaintext highlighter-rouge">bos fund</code> to create the transaction</h3>
 
@@ -514,9 +514,9 @@ bc1qpyz6lausga2s7j2wld8a6m6z722zz4gwkk5cc2hhkq0wj49xfahsck9ajc, 0.01000000
 
 <h3 id="7-broadcast-the-batch-open-transaction">7. Broadcast the batch open transaction</h3>
 
-<p>Press <code class="language-plaintext highlighter-rouge">ENTER</code> to sumbit the signed hex to <code class="language-plaintext highlighter-rouge">bos open</code></p>
+<p>Press <code class="language-plaintext highlighter-rouge">ENTER</code> tsubmitit the signed hex to <code class="language-plaintext highlighter-rouge">bos open</code></p>
 
-<p>If everyting works, you should see a transaction id that you can use to monitor the confirmation of your channels!</p>
+<p>Ieverythingng works, you should see a transaction id that you can use to monitor the confirmation of your channels!</p>
 
 <p>Congrats! You’ve just saved significantly by batch opening your channels using Balance of Satoshis!</p>
 
@@ -656,7 +656,12 @@ bc1qpyz6lausga2s7j2wld8a6m6z722zz4gwkk5cc2hhkq0wj49xfahsck9ajc, 0.01000000
         
         
         
-        <li><a href="/posts/your-decentralized-app-dosen't-need-a-blockchain/">Your Decentralized App Dosen't Need a Blockchain</a></li>
+        <li><a href="/posts/the-security-optimization-of-proof-of-work/">The Security Optimization of Proof of Work</a></li>
+      
+        
+        
+        
+        <li><a href="/posts/your-decentralized-app-dosen't-need-a-blockchain/">Your Decentralized App Doesn't Need a Blockchain</a></li>
       
         
         
@@ -1343,7 +1348,7 @@ When you broadcast a transaction, it must be sent from a node to all its peers. 
 
 </span>
 
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Your Decentralized App Dosen't Need a Blockchain</h3>
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Your Decentralized App Doesn't Need a Blockchain</h3>
             <div class="text-muted small">
               <p>
                 
@@ -1354,7 +1359,7 @@ When you broadcast a transaction, it must be sent from a node to all its peers. 
 
                 The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps.
 
-Most of these app are on central servers. They use LN for it’s payments ability, not to make a distrib...
+Most of these apps are on central servers. They use LNfor its paymentss ability, not to make a distrib...
               </p>
             </div>
           </div>

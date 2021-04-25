@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Lyberry Blog</title>
   <subtitle>A blog about decentralization and cyberstates.</subtitle>
-  <updated>2021-04-25T15:07:14-04:00</updated>
+  <updated>2021-04-25T15:18:43-04:00</updated>
   <author>
     <name>Lyberry</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/" rel="alternate" type="text/html" title="The Security Optimization of Proof of Work" />
     <published>2021-04-25T07:33:27-04:00</published>
   
-    <updated>2021-04-25T07:33:27-04:00</updated>
+    <updated>2021-04-25T15:07:22-04:00</updated>
   
     <id>http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/</id>
     <content src="http://0.0.0.0:4000/posts/the-security-optimization-of-proof-of-work/" />
@@ -127,7 +127,7 @@ Wouldn’t it be great if we could get the same...
 
 
 
-      How many hours have you spent on hold with your bank or credit card company? Navigating through phone menus, listening to robotic monologues telling you how much they care about you while they waste your time. We have to put up with this in part as a security procedure. When you finially get another human on the line, they’ll likely ask for your SSN, security questions, birthday, etc. All this ...
+      How many hours have you spent on hold with your bank or credit card company? Navigating through phone menus, listening to robotic monologues telling you how much they care about you while they waste your time. We have to put up with this in part as a security procedure. When youfinallyy get another human on the line, they’ll likely ask for your SSN, security questions, birthday, etc. All this i...
     </summary>
   
 
@@ -135,8 +135,8 @@ Wouldn’t it be great if we could get the same...
 
   
   <entry>
-    <title>Your Decentralized App Dosen't Need a Blockchain</title>
-    <link href="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" rel="alternate" type="text/html" title="Your Decentralized App Dosen't Need a Blockchain" />
+    <title>Your Decentralized App Doesn't Need a Blockchain</title>
+    <link href="http://0.0.0.0:4000/posts/your-decentralized-app-dosen't-need-a-blockchain/" rel="alternate" type="text/html" title="Your Decentralized App Doesn't Need a Blockchain" />
     <published>2021-04-05T17:41:58-04:00</published>
   
     <updated>2021-04-07T15:55:04-04:00</updated>
@@ -163,7 +163,7 @@ Wouldn’t it be great if we could get the same...
 
       The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps.
 
-Most of these app are on central servers. They use LN for it’s payments ability, not to make a distributed application.
+Most of these apps are on central servers. They use LNfor its paymentss ability, not to make a distributed application.
 
 There are some apps that are hosted on lightning nodes. These include BTCPayServer and Sphinx Chat. Sphinx enables encrypted communication over LN protocol. You can attach a payment...
     </summary>

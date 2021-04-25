@@ -26,7 +26,7 @@ This guide uses `bos v8.0.2`
 
 ### 3. Collect a list of node public keys
 
-These are the nodes you want to open channels to. Also make sure you have enough BTC in your onchain LND wallet to fund all these channels. 
+These are the nodes you want to open channels to. Also, make sure you have enough BTC in your onchain LND wallet to fund all these channels. 
 
 ### 4. Run the `bos open` command 
 
@@ -34,7 +34,7 @@ Chain together your public keys from Step 3 like this:
 
 `bos open <pubkey> --amount <sats> <pubkey2> --amount <sats> ...`
 
-**WARNING**: When you run this command finishes running, you have started a 10 minute timer for yourself. If you attempt to complete the remaining steps AFTER 10 MINUTES HAVE PASSED, YOU RISK LOSING FUNDS! You can safely cancel the operation by pressing `ENTER`.
+**WARNING**: When you run this command finishes running, you have started a10-minutee timer for yourself. If you attempt to complete the remaining steps AFTER 10 MINUTES HAVE PASSED, YOU RISK LOSING FUNDS! You can safely cancel the operation by pressing `ENTER`.
 
 When you run this command, `bos` will attempt to connect to each node using the pubkey you provided. It will negotiate a channel open contract address for each node. When it's complete, it will print some text like this:
 
@@ -48,7 +48,7 @@ bc1qpyz6lausga2s7j2wld8a6m6z722zz4gwkk5cc2hhkq0wj49xfahsck9ajc, 0.01000000
 
 This is an instruction for your batch transaction. The command will wait for you to paste the signed transaction hex that pays these addresses with the specified amount. Your 10 minute timer has begun! If you cannot paste the required hex within 10 mins, simply press `ENTER` without entering anything to cancel.
 
-**NOTE**: All nodes you are trying to connect with need to be online and responsive. If you encounter errors, try removing one of the pubkeys until you identify wich node is causing the problem. 
+**NOTE**: All nodes you are trying to connect with need to be online and responsive. If you encounter errors, try removing one of the pubkeys until you identifywhichh node is causing the problem. 
 
 ### 5. Use `bos fund` to create the transaction 
 
@@ -69,8 +69,8 @@ Simply copy the signed hex from `bos fund` and paste it in the other terminal wh
 
 ### 7. Broadcast the batch open transaction
 
-Press `ENTER` to sumbit the signed hex to `bos open`
+Press `ENTER` tsubmitit the signed hex to `bos open`
 
-If everyting works, you should see a transaction id that you can use to monitor the confirmation of your channels!
+Ieverythingng works, you should see a transaction id that you can use to monitor the confirmation of your channels!
 
 Congrats! You've just saved significantly by batch opening your channels using Balance of Satoshis!

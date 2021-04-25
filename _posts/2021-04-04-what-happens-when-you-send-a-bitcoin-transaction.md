@@ -22,7 +22,7 @@ The miner gets to keep the fees for all the transactions it is able to add to a 
 
 A block can only hold about 2 MB of transaction data. So if there's lot of transactions in the mempools, you better set a higher fee rate to get your transaction confirmed quickly.
 
-Otherwise, it could take weeks for your transaction to confirm. Worst case scenario, the nodes purge your transaction from their mempools because its taking up too much space and they need to make room for others who are willing to pay a higher fee.
+Otherwise, it could take weeks for your transaction to confirm. Worst case scenario, the nodes purge your transaction from their mempools because its taking up too much space, and they need to make room for others who are willing to pay a higher fee.
 
 If your transaction gets purged, you have to rebroadcast it from your wallet. No coins are lost, not even the fee. It never really left your wallet!
 
@@ -30,4 +30,4 @@ The hope is that over time, the value of BTC transactions will rise. Thus, peopl
 
 Paying $100 fee to move $5 is ridiculous. Paying $100 to move $1Billion is a great deal!
 
-As more and more payment activity happens on seconds layer networks like the lightning network, the base blochchain will become a settlement layer for high value transactions. And the fee market will continue to reward miners for securing it.
+As more and more payment activity happens on seconds layer networks like the lightning network, the baseblockchainn will become a settlement layer for high value transactions. And the fee market will continue to reward miners for securing it.

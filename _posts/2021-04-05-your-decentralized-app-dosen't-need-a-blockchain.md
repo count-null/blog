@@ -1,5 +1,5 @@
 ---
-title: Your Decentralized App Dosen't Need a Blockchain
+title: Your Decentralized App Doesn't Need a Blockchain
 date: 2021-04-05 21:41:58
 categories: [bitcoin]
 tags: [bitcoin, decentralization, apps, lightning, federations, blockchain, prediction]
@@ -8,11 +8,11 @@ pin: false
 
 The Lightning Network ecosystem is expanding to include all kinds of nifty websites and apps. 
 
-Most of these app are on central servers. They use LN for it's payments ability, not to make a distributed application.
+Most of these apps are on central servers. They use LNfor its paymentss ability, not to make a distributed application.
 
 There are some apps that are hosted on lightning nodes. These include [BTCPayServer](https://btcpayserver.org) and [Sphinx Chat](https://sphinx.chat). Sphinx enables encrypted communication over LN protocol. You can attach a payment to each message.
 
-Dapps on a blockchain don't scale so they're extremely limited in how popular they can get. Imagine if Twitter could only have a few hundred thousand users before it became really expensive to send a tweet.
+Dapps on a blockchain don't scale, so they're extremely limited in how popular they can get. Imagine if Twitter could only have a few hundred thousand users before it became really expensive to send a tweet.
 
 An app like that will never succeed in replacing the status quo. But it might get big enough to make a few people really rich before totally collapsing.
 
